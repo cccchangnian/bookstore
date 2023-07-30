@@ -1,0 +1,9 @@
+include::{snippets}/reserve/reserve/delete-book-reserve/curl-request.adoc[]
+include::{snippets}/reserve/reserve/delete-book-reserve/httpie-request.adoc[]
+include::{snippets}/reserve/reserve/delete-book-reserve/response-body.adoc[]
+include::{snippets}/reserve/reserve/delete-book-reserve/request-body.adoc[]
+
+.http-request
+include::{snippets}/reserve/reserve/delete-book-reserve/http-request.adoc[]
+.request-headers 请求头说明
+include::{snippets}/reserve/reserve/delete-book-reserve/request-headers.adoc[]

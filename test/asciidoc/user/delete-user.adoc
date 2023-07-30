@@ -1,0 +1,9 @@
+include::{snippets}/user/delete-user/curl-request.adoc[]
+include::{snippets}/user/delete-user/httpie-request.adoc[]
+include::{snippets}/user/delete-user/response-body.adoc[]
+include::{snippets}/user/delete-user/request-body.adoc[]
+
+.http-request
+include::{snippets}/user/delete-user/http-request.adoc[]
+.request-headers 请求头说明
+include::{snippets}/user/delete-user/request-headers.adoc[]

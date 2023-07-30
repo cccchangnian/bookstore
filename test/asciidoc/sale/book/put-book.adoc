@@ -1,0 +1,9 @@
+include::{snippets}/sale/book/put-book/curl-request.adoc[]
+include::{snippets}/sale/book/put-book/httpie-request.adoc[]
+include::{snippets}/sale/book/put-book/response-body.adoc[]
+include::{snippets}/sale/book/put-book/request-body.adoc[]
+
+.http-request
+include::{snippets}/sale/book/put-book/http-request.adoc[]
+.request-headers 请求头说明
+include::{snippets}/sale/book/put-book/request-headers.adoc[]

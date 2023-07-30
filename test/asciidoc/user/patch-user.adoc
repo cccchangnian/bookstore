@@ -1,0 +1,9 @@
+include::{snippets}/user/patch-user/curl-request.adoc[]
+include::{snippets}/user/patch-user/httpie-request.adoc[]
+include::{snippets}/user/patch-user/response-body.adoc[]
+include::{snippets}/user/patch-user/request-body.adoc[]
+
+.http-request
+include::{snippets}/user/patch-user/http-request.adoc[]
+.request-headers 请求头说明
+include::{snippets}/user/patch-user/request-headers.adoc[]

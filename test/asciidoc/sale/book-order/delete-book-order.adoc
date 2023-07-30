@@ -1,0 +1,9 @@
+include::{snippets}/sale/book-order/delete-book-order/curl-request.adoc[]
+include::{snippets}/sale/book-order/delete-book-order/httpie-request.adoc[]
+include::{snippets}/sale/book-order/delete-book-order/response-body.adoc[]
+include::{snippets}/sale/book-order/delete-book-order/request-body.adoc[]
+
+.http-request
+include::{snippets}/sale/book-order/delete-book-order/http-request.adoc[]
+.request-headers 请求头说明
+include::{snippets}/sale/book-order/delete-book-order/request-headers.adoc[]

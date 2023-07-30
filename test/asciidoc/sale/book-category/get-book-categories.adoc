@@ -1,0 +1,9 @@
+include::{snippets}/sale/book-category/get-book-categories/curl-request.adoc[]
+include::{snippets}/sale/book-category/get-book-categories/httpie-request.adoc[]
+include::{snippets}/sale/book-category/get-book-categories/response-body.adoc[]
+include::{snippets}/sale/book-category/get-book-categories/request-body.adoc[]
+
+.http-request
+include::{snippets}/sale/book-category/get-book-categories/http-request.adoc[]
+.request-headers 请求头说明
+include::{snippets}/sale/book-category/get-book-categories/request-headers.adoc[]

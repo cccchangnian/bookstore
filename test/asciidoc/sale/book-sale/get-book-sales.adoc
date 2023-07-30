@@ -1,0 +1,9 @@
+include::{snippets}/sale/book-sale/get-book-sales/curl-request.adoc[]
+include::{snippets}/sale/book-sale/get-book-sales/httpie-request.adoc[]
+include::{snippets}/sale/book-sale/get-book-sales/response-body.adoc[]
+include::{snippets}/sale/book-sale/get-book-sales/request-body.adoc[]
+
+.http-request
+include::{snippets}/sale/book-sale/get-book-sales/http-request.adoc[]
+.request-headers 请求头说明
+include::{snippets}/sale/book-sale/get-book-sales/request-headers.adoc[]

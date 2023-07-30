@@ -1,0 +1,9 @@
+include::{snippets}/user/get-users/curl-request.adoc[]
+include::{snippets}/user/get-users/httpie-request.adoc[]
+include::{snippets}/user/get-users/response-body.adoc[]
+include::{snippets}/user/get-users/request-body.adoc[]
+
+.http-request
+include::{snippets}/user/get-users/http-request.adoc[]
+.request-headers 请求头说明
+include::{snippets}/user/get-users/request-headers.adoc[]

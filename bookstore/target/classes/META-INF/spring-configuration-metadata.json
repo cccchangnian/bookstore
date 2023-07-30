@@ -1,0 +1,58 @@
+{
+  "groups": [
+    {
+      "name": "props.rent.icon",
+      "type": "bookstore.props.RentProps",
+      "sourceType": "bookstore.props.RentProps"
+    },
+    {
+      "name": "props.sale.icon",
+      "type": "bookstore.props.SaleProps",
+      "sourceType": "bookstore.props.SaleProps"
+    },
+    {
+      "name": "props.user.icon",
+      "type": "bookstore.props.UserProps",
+      "sourceType": "bookstore.props.UserProps"
+    }
+  ],
+  "properties": [
+    {
+      "name": "props.rent.icon.base-path",
+      "type": "java.lang.String",
+      "sourceType": "bookstore.props.RentProps",
+      "defaultValue": ""
+    },
+    {
+      "name": "props.rent.icon.url-base-path",
+      "type": "java.lang.String",
+      "sourceType": "bookstore.props.RentProps",
+      "defaultValue": ""
+    },
+    {
+      "name": "props.sale.icon.base-path",
+      "type": "java.lang.String",
+      "sourceType": "bookstore.props.SaleProps",
+      "defaultValue": ""
+    },
+    {
+      "name": "props.sale.icon.url-base-path",
+      "type": "java.lang.String",
+      "sourceType": "bookstore.props.SaleProps",
+      "defaultValue": ""
+    },
+    {
+      "name": "props.user.icon.base-path",
+      "type": "java.lang.String",
+      "sourceType": "bookstore.props.UserProps",
+      "defaultValue": ""
+    },
+    {
+      "name": "props.user.icon.url-base-path",
+      "type": "java.lang.String",
+      "sourceType": "bookstore.props.UserProps",
+      "defaultValue": ""
+    }
+  ],
+  "hints": []
+}

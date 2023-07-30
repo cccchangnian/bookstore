@@ -1,0 +1,9 @@
+include::{snippets}/reserve/record/get-book-reserve-records/curl-request.adoc[]
+include::{snippets}/reserve/record/get-book-reserve-records/httpie-request.adoc[]
+include::{snippets}/reserve/record/get-book-reserve-records/response-body.adoc[]
+include::{snippets}/reserve/record/get-book-reserve-records/request-body.adoc[]
+
+.http-request
+include::{snippets}/reserve/record/get-book-reserve-records/http-request.adoc[]
+.request-headers 请求头说明
+include::{snippets}/reserve/record/get-book-reserve-records/request-headers.adoc[]

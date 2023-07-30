@@ -1,0 +1,9 @@
+include::{snippets}/sale/book-category/patch-book-category/curl-request.adoc[]
+include::{snippets}/sale/book-category/patch-book-category/httpie-request.adoc[]
+include::{snippets}/sale/book-category/patch-book-category/response-body.adoc[]
+include::{snippets}/sale/book-category/patch-book-category/request-body.adoc[]
+
+.http-request
+include::{snippets}/sale/book-category/patch-book-category/http-request.adoc[]
+.request-headers 请求头说明
+include::{snippets}/sale/book-category/patch-book-category/request-headers.adoc[]
